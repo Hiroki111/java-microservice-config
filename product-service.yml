@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 product-service:
-  message: "product-service related dev APIs - updated from github"
+  message: "product-service related dev APIs"
   contactDetails:
     name: "Carol"
     email: "carol@easycar.com"
