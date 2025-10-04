@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 order-service:
-  message: "order-service related dev APIs"
+  message: "order-service related dev APIs - updated from github"
   contactDetails:
     name: "Carol"
     email: "carol@easycar.com"
